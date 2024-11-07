@@ -37,7 +37,7 @@ To set up the project locally, follow these steps:
 
 ## Demo
 
-You can visit the [link] to visit the live version of the website. 
+You can visit the [http://sawongambnk.atspace.cc/pages/home.php] to visit the live version of the website. 
 
 You can register a new account or log in using the following credentials:
 - Account Number: 200
